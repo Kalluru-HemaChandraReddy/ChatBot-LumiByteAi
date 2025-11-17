@@ -1,0 +1,583 @@
+{
+  "bmg9lZwP": {
+    "id": "bmg9lZwP",
+    "title": "New Chat 1",
+    "createdAt": "2025-11-15T12:46:16.724Z",
+    "messages": [
+      {
+        "id": "Gu6NsI",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T12:46:16.724Z"
+      }
+    ]
+  },
+  "soJwMAzX": {
+    "id": "soJwMAzX",
+    "title": "New Chat 2",
+    "createdAt": "2025-11-15T12:46:16.725Z",
+    "messages": [
+      {
+        "id": "4UdmKB",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T12:46:16.725Z"
+      }
+    ]
+  },
+  "mUYGUVA0": {
+    "id": "mUYGUVA0",
+    "title": "Who is Deekshita",
+    "createdAt": "2025-11-15T12:48:08.917Z",
+    "messages": [
+      {
+        "id": "qRqu_o",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T12:48:08.917Z"
+      },
+      {
+        "id": "u_1763210903195",
+        "role": "user",
+        "text": "Who is Deekshita",
+        "createdAt": "2025-11-15T12:48:23.195Z"
+      },
+      {
+        "id": "_0A-97",
+        "role": "assistant",
+        "text": "Mock answer to: \"Who is Deekshita\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 68
+            },
+            {
+              "Name": "Bob",
+              "Score": 71
+            },
+            {
+              "Name": "Charlie",
+              "Score": 19
+            }
+          ]
+        },
+        "createdAt": "2025-11-15T12:48:23.197Z",
+        "feedback": {
+          "likes": 1,
+          "dislikes": 1
+        }
+      }
+    ]
+  },
+  "OObsEeDl": {
+    "id": "OObsEeDl",
+    "title": "New Chat 4",
+    "createdAt": "2025-11-15T13:04:56.819Z",
+    "messages": [
+      {
+        "id": "KQuja0",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:04:56.819Z"
+      }
+    ]
+  },
+  "MhEkCyud": {
+    "id": "MhEkCyud",
+    "title": "cvd",
+    "createdAt": "2025-11-15T13:06:46.953Z",
+    "messages": [
+      {
+        "id": "IbTclI",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:06:46.953Z"
+      },
+      {
+        "id": "u_1763212019962",
+        "role": "user",
+        "text": "cvd",
+        "createdAt": "2025-11-15T13:06:59.962Z"
+      },
+      {
+        "id": "L1N606",
+        "role": "assistant",
+        "text": "Mock answer to: \"cvd\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 25
+            },
+            {
+              "Name": "Bob",
+              "Score": 45
+            },
+            {
+              "Name": "Charlie",
+              "Score": 88
+            }
+          ]
+        },
+        "createdAt": "2025-11-15T13:06:59.964Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      },
+      {
+        "id": "u_1763212024996",
+        "role": "user",
+        "text": "r th",
+        "createdAt": "2025-11-15T13:07:04.996Z"
+      },
+      {
+        "id": "fBQFle",
+        "role": "assistant",
+        "text": "Mock answer to: \"r th\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 36
+            },
+            {
+              "Name": "Bob",
+              "Score": 47
+            },
+            {
+              "Name": "Charlie",
+              "Score": 62
+            }
+          ]
+        },
+        "createdAt": "2025-11-15T13:07:04.996Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      },
+      {
+        "id": "u_1763212047651",
+        "role": "user",
+        "text": "who is deeru",
+        "createdAt": "2025-11-15T13:07:27.652Z"
+      },
+      {
+        "id": "n7R98p",
+        "role": "assistant",
+        "text": "Mock answer to: \"who is deeru\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 45
+            },
+            {
+              "Name": "Bob",
+              "Score": 13
+            },
+            {
+              "Name": "Charlie",
+              "Score": 67
+            }
+          ]
+        },
+        "createdAt": "2025-11-15T13:07:27.652Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      },
+      {
+        "id": "u_1763212108658",
+        "role": "user",
+        "text": "hlo master",
+        "createdAt": "2025-11-15T13:08:28.658Z"
+      },
+      {
+        "id": "-g3vLD",
+        "role": "assistant",
+        "text": "Mock answer to: \"hlo master\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 55
+            },
+            {
+              "Name": "Bob",
+              "Score": 80
+            },
+            {
+              "Name": "Charlie",
+              "Score": 89
+            }
+          ]
+        },
+        "createdAt": "2025-11-15T13:08:28.658Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      }
+    ]
+  },
+  "Y4Ybvgdt": {
+    "id": "Y4Ybvgdt",
+    "title": "New Chat 6",
+    "createdAt": "2025-11-15T13:09:03.746Z",
+    "messages": [
+      {
+        "id": "mXKo2j",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:03.746Z"
+      }
+    ]
+  },
+  "gc27kTLn": {
+    "id": "gc27kTLn",
+    "title": "New Chat 7",
+    "createdAt": "2025-11-15T13:09:45.247Z",
+    "messages": [
+      {
+        "id": "o96OT1",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:45.247Z"
+      }
+    ]
+  },
+  "voerEYYI": {
+    "id": "voerEYYI",
+    "title": "New Chat 8",
+    "createdAt": "2025-11-15T13:09:46.484Z",
+    "messages": [
+      {
+        "id": "YLD50Y",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:46.484Z"
+      }
+    ]
+  },
+  "eRlk6WlK": {
+    "id": "eRlk6WlK",
+    "title": "New Chat 9",
+    "createdAt": "2025-11-15T13:09:46.803Z",
+    "messages": [
+      {
+        "id": "qmoBCK",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:46.803Z"
+      }
+    ]
+  },
+  "O-AehfCq": {
+    "id": "O-AehfCq",
+    "title": "New Chat 10",
+    "createdAt": "2025-11-15T13:09:46.931Z",
+    "messages": [
+      {
+        "id": "B_AFZZ",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:46.931Z"
+      }
+    ]
+  },
+  "CQdQaCaK": {
+    "id": "CQdQaCaK",
+    "title": "New Chat 11",
+    "createdAt": "2025-11-15T13:09:47.135Z",
+    "messages": [
+      {
+        "id": "iMAZsC",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:47.135Z"
+      }
+    ]
+  },
+  "VktBNp6u": {
+    "id": "VktBNp6u",
+    "title": "New Chat 12",
+    "createdAt": "2025-11-15T13:09:47.476Z",
+    "messages": [
+      {
+        "id": "RVJZTc",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:47.476Z"
+      }
+    ]
+  },
+  "IPq_gx0M": {
+    "id": "IPq_gx0M",
+    "title": "New Chat 13",
+    "createdAt": "2025-11-15T13:09:47.977Z",
+    "messages": [
+      {
+        "id": "RMzwKk",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-15T13:09:47.977Z"
+      }
+    ]
+  },
+  "vDX7OJjq": {
+    "id": "vDX7OJjq",
+    "title": "ksldmx ke",
+    "createdAt": "2025-11-16T02:48:11.257Z",
+    "messages": [
+      {
+        "id": "3jvBwE",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-16T02:48:11.257Z"
+      },
+      {
+        "id": "u_1763261306390",
+        "role": "user",
+        "text": "ksldmx ke",
+        "createdAt": "2025-11-16T02:48:26.390Z"
+      },
+      {
+        "id": "_dWONZ",
+        "role": "assistant",
+        "text": "Mock answer to: \"ksldmx ke\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 69
+            },
+            {
+              "Name": "Bob",
+              "Score": 89
+            },
+            {
+              "Name": "Charlie",
+              "Score": 90
+            }
+          ]
+        },
+        "createdAt": "2025-11-16T02:48:26.393Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      },
+      {
+        "id": "u_1763261314708",
+        "role": "user",
+        "text": "mmme emememem",
+        "createdAt": "2025-11-16T02:48:34.708Z"
+      },
+      {
+        "id": "ZlaYKn",
+        "role": "assistant",
+        "text": "Mock answer to: \"mmme emememem\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 60
+            },
+            {
+              "Name": "Bob",
+              "Score": 6
+            },
+            {
+              "Name": "Charlie",
+              "Score": 10
+            }
+          ]
+        },
+        "createdAt": "2025-11-16T02:48:34.708Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      }
+    ]
+  },
+  "S0H_2n85": {
+    "id": "S0H_2n85",
+    "title": "New Chat 15",
+    "createdAt": "2025-11-16T02:48:39.198Z",
+    "messages": [
+      {
+        "id": "2XlDtC",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-16T02:48:39.198Z"
+      }
+    ]
+  },
+  "WzXpWuEH": {
+    "id": "WzXpWuEH",
+    "title": "hi",
+    "createdAt": "2025-11-16T02:48:48.492Z",
+    "messages": [
+      {
+        "id": "kAtTMd",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-16T02:48:48.492Z"
+      },
+      {
+        "id": "u_1763261754304",
+        "role": "user",
+        "text": "hi",
+        "createdAt": "2025-11-16T02:55:54.304Z"
+      },
+      {
+        "id": "eVbyX6",
+        "role": "assistant",
+        "text": "Mock answer to: \"hi\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 24
+            },
+            {
+              "Name": "Bob",
+              "Score": 48
+            },
+            {
+              "Name": "Charlie",
+              "Score": 32
+            }
+          ]
+        },
+        "createdAt": "2025-11-16T02:55:54.309Z",
+        "feedback": {
+          "likes": 26,
+          "dislikes": 0
+        }
+      },
+      {
+        "id": "u_1763261772418",
+        "role": "user",
+        "text": "ed",
+        "createdAt": "2025-11-16T02:56:12.418Z"
+      },
+      {
+        "id": "opoECe",
+        "role": "assistant",
+        "text": "Mock answer to: \"ed\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 94
+            },
+            {
+              "Name": "Bob",
+              "Score": 46
+            },
+            {
+              "Name": "Charlie",
+              "Score": 87
+            }
+          ]
+        },
+        "createdAt": "2025-11-16T02:56:12.418Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      }
+    ]
+  },
+  "n160bmbx": {
+    "id": "n160bmbx",
+    "title": "hi",
+    "createdAt": "2025-11-16T08:26:21.701Z",
+    "messages": [
+      {
+        "id": "xsPo1d",
+        "role": "system",
+        "text": "This is a fresh session. Ask anything!",
+        "createdAt": "2025-11-16T08:26:21.701Z"
+      },
+      {
+        "id": "u_1763281584992",
+        "role": "user",
+        "text": "hi",
+        "createdAt": "2025-11-16T08:26:24.992Z"
+      },
+      {
+        "id": "0zuPBj",
+        "role": "assistant",
+        "text": "Mock answer to: \"hi\". Below is a small table produced as structured data.",
+        "table": {
+          "columns": [
+            "Name",
+            "Score"
+          ],
+          "rows": [
+            {
+              "Name": "Alice",
+              "Score": 75
+            },
+            {
+              "Name": "Bob",
+              "Score": 15
+            },
+            {
+              "Name": "Charlie",
+              "Score": 34
+            }
+          ]
+        },
+        "createdAt": "2025-11-16T08:26:24.995Z",
+        "feedback": {
+          "likes": 0,
+          "dislikes": 0
+        }
+      }
+    ]
+  }
+}
